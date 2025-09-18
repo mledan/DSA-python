@@ -1,0 +1,24 @@
+# DSA Python Learning Environment
+# Core dependencies for data structures and algorithms
+
+# For testing and validation
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# For visualization (optional but helpful)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# For performance testing
+timeit
+
+# For data manipulation (useful for some algorithms)
+numpy>=1.21.0
+
+# For type hints and better code quality
+mypy>=0.950
+
+# For code formatting
+black>=22.0.0
+flake8>=4.0.0
+
