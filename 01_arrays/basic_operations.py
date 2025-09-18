@@ -1,5 +1,5 @@
 """
-Basic Array Operations - Part 1
+Basic Array Operations - Part 1 (SOLUTION)
 Following W3Schools DSA Tutorial: https://www.w3schools.com/dsa/dsa_intro_arrays.php
 
 This module covers fundamental array operations including:
